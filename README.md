@@ -1,7 +1,7 @@
 ## Hi there! I am Harshit
 A full stack web developer (MERN) 
 
-- 🔭  Currently sharpening my Data Structures & Algorithms skills through problem-solving.
+- 🔭 Crafting engaging full-stack web experiences while sharpening my DSA skills through problem-solving.
 - 📫 How to reach me: harshitchaurasia4673@gmail.com
 
 
